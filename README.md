@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a Software Developer with a focus on Frontend and over 7 years of experience, including several years as a Lead Frontend Developer.
+
+I excel in building scalable codebases, delivering projects from concept to deployment in just a few days. My expertise lies in creating cross-browser applications using cutting-edge technologies, combined with effective SEO strategies to maximize business impact.
+
+With a deep understanding of UX/UI design, I collaborate seamlessly with designers and backend teams to deliver user-centered, high-performing solutions. My attention to detail, analytical mindset, and proactive approach ensure consistent quality and innovation in every project.
+
 <!--
 **denis23x/denis23x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
