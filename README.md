@@ -1,100 +1,152 @@
-## Hi there 👋
+**Software Developer** · Fullstack-focused · 7+ years · ex-Dev Lead
 
-I am a Software Developer with a focus on Frontend and over 7 years of experience, including several years as a Lead Frontend Developer.
+**Primary stack** · TypeScript · Next.js · NestJS · React · Angular · Node.js · PostgreSQL
 
-I excel in building scalable codebases, delivering projects from concept to deployment in just a few days. My expertise lies in creating cross-browser applications using cutting-edge technologies, combined with effective SEO strategies to maximize business impact.
+- Backend development: APIs, business logic, data modeling, integrations
+- Frontend architecture, performance, and SEO: Core Web Vitals, SSR/SSG
+- Full ownership from requirements and design to production
+- Leading teams: technical decisions, mentoring, code reviews
+- Debugging across frontend, backend, and infrastructure
+- Reliable delivery aligned with business goals
+- Using AI tools to improve code quality, speed up development, and support better technical decisions
 
-With a deep understanding of UX/UI design, I collaborate seamlessly with designers and backend teams to deliver user-centered, high-performing solutions. My attention to detail, analytical mindset, and proactive approach ensure consistent quality and innovation in every project.
+---
 
-> Clientside
+**What I can deliver**
 
-![Static Badge](https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS3-black?logo=css&logoColor=%231572B6)
-![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=%233178C6)
-![Static Badge](https://img.shields.io/badge/Angular-black?logo=angular&logoColor=%23E0234E)
-![Static Badge](https://img.shields.io/badge/React-black?logo=react)
-![Static Badge](https://img.shields.io/badge/Vue-black?logo=vuedotjs&logoColor=%234FC08D)
-![Static Badge](https://img.shields.io/badge/shadcn%2Fui-black?logo=shadcnui)
-![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-black?logo=tailwindcss&logoColor=%2306B6D4)
-![Static Badge](https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&logoColor=%237952B3)
-![Static Badge](https://img.shields.io/badge/SASS-black?logo=sass&logoColor=%23CC6699)
-![Static Badge](https://img.shields.io/badge/PWA-black?logo=pwa&logoColor=white)
-![Static Badge](https://img.shields.io/badge/DaisyUI-black?logo=daisyui&logoColor=%231AD1A5)
-![Static Badge](https://img.shields.io/badge/D3-black?logo=d3&logoColor=%23F9A03C)
-![Static Badge](https://img.shields.io/badge/JQuery-black?logo=jquery&logoColor=%230769AD)
-![Static Badge](https://img.shields.io/badge/Figma-black?logo=figma&logoColor=%23F24E1E)
+I lead teams and projects end-to-end, covering backend, frontend, and delivery. I design APIs and data models, define performance-focused frontend architecture, and coordinate with design and product. I can reduce page load time to ~1s, improve search visibility with SEO-first practices, organize CI/CD and production deployments, and use AI tools to accelerate development, improve code quality, and deliver better results faster.
 
-> Serverside
+---
 
-![Static Badge](https://img.shields.io/badge/Next-black?logo=nextdotjs&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Nuxt-black?logo=nuxt&logoColor=%2300DC82)
-![Static Badge](https://img.shields.io/badge/Nest-black?logo=nestjs&logoColor=%23E0234E)
-![Static Badge](https://img.shields.io/badge/Express-black?logo=express&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Sharp-black?logo=sharp&logoColor=%2399CC00)
-![Static Badge](https://img.shields.io/badge/Node-black?logo=nodedotjs&logoColor=%235FA04E)
-![Static Badge](https://img.shields.io/badge/GraphQL-black?logo=graphql&logoColor=%23E10098)
-![Static Badge](https://img.shields.io/badge/Apollo-black?logo=apollographql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Swagger-black?logo=swagger&logoColor=%2385EA2D)
-![Static Badge](https://img.shields.io/badge/Strapi-black?logo=strapi&logoColor=%234945FF)
+**Tech & tools**
 
-> Database
+<details>
+<summary><b>Client-side</b></summary>
 
-![Static Badge](https://img.shields.io/badge/Prisma-black?logo=prisma&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/MySQL-black?logo=mysql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Firestore-black?logo=firebase&logoColor=%23DD2C00)
-![Static Badge](https://img.shields.io/badge/Supabase-black?logo=supabase&logoColor=%233FCF8E)
-![Static Badge](https://img.shields.io/badge/Algolia-black?logo=algolia&logoColor=%23003DFF)
+![HTML5](https://img.shields.io/badge/HTML5-white?logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-white?logo=css&logoColor=%231572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=typescript&logoColor=%233178C6)
+![Angular](https://img.shields.io/badge/Angular-white?logo=angular&logoColor=%23E0234E)
+![React](https://img.shields.io/badge/React-white?logo=react)
+![Vue](https://img.shields.io/badge/Vue-white?logo=vuedotjs&logoColor=%234FC08D)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-white?logo=shadcnui&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-white?logo=tailwindcss&logoColor=%2306B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&logoColor=%237952B3)
+![SASS](https://img.shields.io/badge/SASS-white?logo=sass&logoColor=%23CC6699)
+![PWA](https://img.shields.io/badge/PWA-white?logo=pwa&logoColor=black)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-white?logo=daisyui&logoColor=%231AD1A5)
+![D3](https://img.shields.io/badge/D3-white?logo=d3&logoColor=%23F9A03C)
+![jQuery](https://img.shields.io/badge/jQuery-white?logo=jquery&logoColor=%230769AD)
+![Figma](https://img.shields.io/badge/Figma-white?logo=figma&logoColor=%23F24E1E)
 
-> Test
+</details>
 
-![Static Badge](https://img.shields.io/badge/Cypress-black?logo=cypress&logoColor=%2369D3A7)
-![Static Badge](https://img.shields.io/badge/Playwright-black?logo=playwright&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Sentry-black?logo=sentry&logoColor=white)
-![Static Badge](https://img.shields.io/badge/LogRocket-black?logo=logrocket&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Postman-black?logo=postman&logoColor=%23FF6C37)
-![Static Badge](https://img.shields.io/badge/Google%20Analytics-black?logo=googleanalytics&logoColor=%23E37400)
-![Static Badge](https://img.shields.io/badge/Apache%20JMeter-black?logo=apachejmeter&logoColor=%23E37400)
-![Static Badge](https://img.shields.io/badge/BrowserStack-black?logo=browserstack&logoColor=white)
+<details>
+<summary><b>Server-side</b></summary>
 
+![Next](https://img.shields.io/badge/Next-white?logo=nextdotjs&logoColor=black)
+![Nuxt](https://img.shields.io/badge/Nuxt-white?logo=nuxt&logoColor=%2300DC82)
+![Nest](https://img.shields.io/badge/Nest-white?logo=nestjs&logoColor=%23E0234E)
+![Express](https://img.shields.io/badge/Express-white?logo=express&logoColor=black)
+![Sharp](https://img.shields.io/badge/Sharp-white?logo=sharp&logoColor=%2399CC00)
+![Node](https://img.shields.io/badge/Node-white?logo=nodedotjs&logoColor=%235FA04E)
+![GraphQL](https://img.shields.io/badge/GraphQL-white?logo=graphql&logoColor=%23E10098)
+![Apollo](https://img.shields.io/badge/Apollo-white?logo=apollographql&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-white?logo=swagger&logoColor=%2385EA2D)
+![Strapi](https://img.shields.io/badge/Strapi-white?logo=strapi&logoColor=%234945FF)
 
-> Environment
+</details>
 
-![Static Badge](https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Firebase-black?logo=firebase&logoColor=%23DD2C00)
-![Static Badge](https://img.shields.io/badge/Docker-black?logo=docker&logoColor=%232496ED)
-![Static Badge](https://img.shields.io/badge/Google%20Cloud%20Platform-black?logo=googlecloud&logoColor=%234285F4)
-![Static Badge](https://img.shields.io/badge/Git-black?logo=git&logoColor=%23F05032)
-![Static Badge](https://img.shields.io/badge/GitLab-black?logo=gitlab&logoColor=%23FC6D26)
-![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Jira-black?logo=jira&logoColor=%230052CC)
-![Static Badge](https://img.shields.io/badge/YouTrack-black?logo=youtrack&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Portainer-black?logo=portainer&logoColor=%2313BEF9)
-![Static Badge](https://img.shields.io/badge/Nexus-black?logo=nexus&logoColor=%2313BEF9)
-![Static Badge](https://img.shields.io/badge/Jenkins-black?logo=jenkins&logoColor=%23D24939)
+<details>
+<summary><b>Database</b></summary>
 
-> Utilities
+![Prisma](https://img.shields.io/badge/Prisma-white?logo=prisma&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-white?logo=firebase&logoColor=%23DD2C00)
+![Supabase](https://img.shields.io/badge/Supabase-white?logo=supabase&logoColor=%233FCF8E)
+![Algolia](https://img.shields.io/badge/Algolia-white?logo=algolia&logoColor=%23003DFF)
 
-![Static Badge](https://img.shields.io/badge/Prettier-black?logo=prettier&logoColor=%23F7B93E)
-![Static Badge](https://img.shields.io/badge/ESLint-black?logo=eslint&logoColor=%234B32C3)
-![Static Badge](https://img.shields.io/badge/Commitlint-black?logo=commitlint&logoColor-white)
-![Static Badge](https://img.shields.io/badge/husky-black?logo=husky&logoColor=white)
+</details>
 
-> AI
+<details>
+<summary><b>Test & observability</b></summary>
 
-![Static Badge](https://img.shields.io/badge/Gemini-black?logo=googlegemini&logoColor=%238E75B2)
-![Static Badge](https://img.shields.io/badge/OpenAI-black?logo=openai&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Cursor-black?logo=cursor&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Nano%20Banana-black?logo=nanobanana&logoColor=white)
-![Static Badge](https://img.shields.io/badge/KlingAI-black?logo=klingai&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Seedance-black?logo=seedance&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-white?logo=cypress&logoColor=%2369D3A7)
+![Playwright](https://img.shields.io/badge/Playwright-white?logo=playwright&logoColor=black)
+![Sentry](https://img.shields.io/badge/Sentry-white?logo=sentry&logoColor=black)
+![LogRocket](https://img.shields.io/badge/LogRocket-white?logo=logrocket&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-white?logo=postman&logoColor=%23FF6C37)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-white?logo=googleanalytics&logoColor=%23E37400)
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-white?logo=apachejmeter&logoColor=%23E37400)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-white?logo=browserstack&logoColor=black)
 
-> Gamedev
+</details>
 
-![Static Badge](https://img.shields.io/badge/UDK-black?logo=unrealengine&logoColor=white)
-![Static Badge](https://img.shields.io/badge/3ds%20Max-black?logo=3dsmax&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Godot%20Engine-black?logo=godotengine&logoColor=%23478CBF)
-![Static Badge](https://img.shields.io/badge/Roblox%20Studio-black?logo=robloxstudio&logoColor=%2300A2FF)
-![Static Badge](https://img.shields.io/badge/Mixamo-black?logo=mixamo&logoColor=white)
-![Static Badge](https://img.shields.io/badge/DaVinci%20Resolve-black?logo=davinciresolve&logoColor=white)
+<details>
+<summary><b>Environment & DevOps</b></summary>
+
+![Vercel](https://img.shields.io/badge/Vercel-white?logo=vercel&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-white?logo=firebase&logoColor=%23DD2C00)
+![Docker](https://img.shields.io/badge/Docker-white?logo=docker&logoColor=%232496ED)
+![GCP](https://img.shields.io/badge/Google%20Cloud-white?logo=googlecloud&logoColor=%234285F4)
+![Git](https://img.shields.io/badge/Git-white?logo=git&logoColor=%23F05032)
+![GitLab](https://img.shields.io/badge/GitLab-white?logo=gitlab&logoColor=%23FC6D26)
+![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-white?logo=jira&logoColor=%230052CC)
+![YouTrack](https://img.shields.io/badge/YouTrack-white?logo=youtrack&logoColor=black)
+![Portainer](https://img.shields.io/badge/Portainer-white?logo=portainer&logoColor=%2313BEF9)
+![Nexus](https://img.shields.io/badge/Nexus-white?logo=nexus&logoColor=%2313BEF9)
+![Jenkins](https://img.shields.io/badge/Jenkins-white?logo=jenkins&logoColor=%23D24939)
+
+</details>
+
+<details>
+<summary><b>Code quality</b></summary>
+
+![Prettier](https://img.shields.io/badge/Prettier-white?logo=prettier&logoColor=%23F7B93E)
+![ESLint](https://img.shields.io/badge/ESLint-white?logo=eslint&logoColor=%234B32C3)
+![Commitlint](https://img.shields.io/badge/Commitlint-white?logo=commitlint&logoColor=black)
+![Husky](https://img.shields.io/badge/Husky-white?logo=husky&logoColor=black)
+![Storybook](https://img.shields.io/badge/Storybook-white?logo=storybook&logoColor=%23FF4785)
+
+</details>
+
+<details>
+<summary><b>AI</b></summary>
+
+![Gemini](https://img.shields.io/badge/Gemini-white?logo=googlegemini&logoColor=%238E75B2)
+![OpenAI](https://img.shields.io/badge/OpenAI-white?logo=openai&logoColor=black)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-white?logo=openclaw&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-white?logo=cursor&logoColor=black)
+![Kling AI](https://img.shields.io/badge/KlingAI-white?logo=klingai&logoColor=black)
+![Nano Banana](https://img.shields.io/badge/Nano%20Banana-white?logo=nanobanana&logoColor=black)
+![Seedance](https://img.shields.io/badge/Seedance-white?logo=seedance&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>Hobbies</b></summary>
+
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-white?logo=raspberrypi&logoColor=%23A22846)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-white?logo=3dsmax&logoColor=black)
+![Godot](https://img.shields.io/badge/Godot-white?logo=godotengine&logoColor=%23478CBF)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-white?logo=robloxstudio&logoColor=%2300A2FF)
+![Mixamo](https://img.shields.io/badge/Mixamo-white?logo=mixamo&logoColor=black)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-white?logo=davinciresolve&logoColor=black)
+![Unreal](https://img.shields.io/badge/UDK-white?logo=unrealengine&logoColor=black)
+
+</details>
+
+---
+
+**Connect**
+
+- [t.me/denis23x](https://t.me/denis23x)
+- [github.com/denis23x](https://github.com/denis23x)
+- [linkedin.com/in/denis-iakimenko](https://www.linkedin.com/in/denis-iakimenko)
+
+---
+
+Bye!
