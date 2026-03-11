@@ -116,6 +116,7 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 <details>
 <summary><b>AI</b></summary>
 
+![Claude](https://img.shields.io/badge/Claude-white?logo=claude&logoColor=%23D97757)
 ![Gemini](https://img.shields.io/badge/Gemini-white?logo=googlegemini&logoColor=%238E75B2)
 ![OpenAI](https://img.shields.io/badge/OpenAI-white?logo=openai&logoColor=black)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-white?logo=openclaw&logoColor=black)
@@ -129,7 +130,6 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 <details>
 <summary><b>Hobbies</b></summary>
 
-![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-white?logo=raspberrypi&logoColor=%23A22846)
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-white?logo=3dsmax&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-white?logo=godotengine&logoColor=%23478CBF)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-white?logo=robloxstudio&logoColor=%2300A2FF)
@@ -146,7 +146,3 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 - [t.me/denis23x](https://t.me/denis23x)
 - [github.com/denis23x](https://github.com/denis23x)
 - [linkedin.com/in/denis-iakimenko](https://www.linkedin.com/in/denis-iakimenko)
-
----
-
-Bye!
