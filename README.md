@@ -28,11 +28,14 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 ![JavaScript](https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=typescript&logoColor=%233178C6)
 ![Angular](https://img.shields.io/badge/Angular-white?logo=angular&logoColor=%23E0234E)
+![RXJS](https://img.shields.io/badge/RXJS-white?logo=reactivex&logoColor=%23B7178C)
 ![React](https://img.shields.io/badge/React-white?logo=react)
+![TanStack](https://img.shields.io/badge/TanStack-white?logo=tanstack&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue-white?logo=vuedotjs&logoColor=%234FC08D)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-white?logo=shadcnui&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-white?logo=tailwindcss&logoColor=%2306B6D4)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-white?logo=bootstrap&logoColor=%237952B3)
+![Apollo](https://img.shields.io/badge/Apollo-white?logo=apollographql&logoColor=black)
 ![SASS](https://img.shields.io/badge/SASS-white?logo=sass&logoColor=%23CC6699)
 ![PWA](https://img.shields.io/badge/PWA-white?logo=pwa&logoColor=black)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-white?logo=daisyui&logoColor=%231AD1A5)
@@ -52,7 +55,6 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 ![Sharp](https://img.shields.io/badge/Sharp-white?logo=sharp&logoColor=%2399CC00)
 ![Node](https://img.shields.io/badge/Node-white?logo=nodedotjs&logoColor=%235FA04E)
 ![GraphQL](https://img.shields.io/badge/GraphQL-white?logo=graphql&logoColor=%23E10098)
-![Apollo](https://img.shields.io/badge/Apollo-white?logo=apollographql&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-white?logo=swagger&logoColor=%2385EA2D)
 ![Strapi](https://img.shields.io/badge/Strapi-white?logo=strapi&logoColor=%234945FF)
 
@@ -62,6 +64,8 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 <summary><b>Database</b></summary>
 
 ![Prisma](https://img.shields.io/badge/Prisma-white?logo=prisma&logoColor=black)
+![TypeORM](https://img.shields.io/badge/TypeORM-white?logo=typeorm&logoColor=%23FE0803)
+![Sequelize](https://img.shields.io/badge/Sequelize-white?logo=sequelize&logoColor=%2352B0E7)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-white?logo=firebase&logoColor=%23DD2C00)
@@ -144,5 +148,4 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 **Connect**
 
 - [t.me/denis23x](https://t.me/denis23x)
-- [github.com/denis23x](https://github.com/denis23x)
 - [linkedin.com/in/denis-iakimenko](https://www.linkedin.com/in/denis-iakimenko)
