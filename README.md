@@ -1,3 +1,6 @@
+[t.me/denis23x](https://t.me/denis23x)\
+[linkedin.com/in/denis-iakimenko](https://www.linkedin.com/in/denis-iakimenko)
+
 **Software Developer** · Fullstack-focused · 7+ years · ex-Dev Lead
 
 **Primary stack** · TypeScript · Next.js · NestJS · React · Angular · Node.js · PostgreSQL
@@ -15,6 +18,15 @@
 **What I can deliver**
 
 I lead teams and projects end-to-end, covering backend, frontend, and delivery. I design APIs and data models, define performance-focused frontend architecture, and coordinate with design and product. I can reduce page load time to ~1s, improve search visibility with SEO-first practices, organize CI/CD and production deployments, and use AI tools to accelerate development, improve code quality, and deliver better results faster.
+
+---
+
+**Some pet projects**
+
+[daylik](https://daylik.io/en) (team collaboration tools)\
+[deepwood](https://denis23x.itch.io/deepwood) (2d game platformer)\
+[memorease](https://memorease23x.vercel.app) (quiz game)\
+[portfolio](https://denis23x.info) (abandoned)
 
 ---
 
@@ -147,5 +159,5 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 
 **Connect**
 
-- [t.me/denis23x](https://t.me/denis23x)
-- [linkedin.com/in/denis-iakimenko](https://www.linkedin.com/in/denis-iakimenko)
+[t.me/denis23x](https://t.me/denis23x)\
+[linkedin.com/in/denis-iakimenko](https://www.linkedin.com/in/denis-iakimenko)
