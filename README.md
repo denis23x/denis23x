@@ -23,10 +23,12 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 
 **Some pet projects**
 
+[minilink](https://minilink23x.vercel.app) (url shortener)\
 [daylik](https://daylik.io/en) (team collaboration tools)\
 [deepwood](https://denis23x.itch.io/deepwood) (2d game platformer)\
 [memorease](https://memorease23x.vercel.app) (quiz game)\
-[portfolio](https://denis23x.info) (abandoned)
+[portfolio](https://denis23x.info) (abandoned)\
+~~[takabase](https://takabase.com) (rip)~~
 
 ---
 
@@ -146,12 +148,12 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 <details>
 <summary><b>Hobbies</b></summary>
 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-white?logo=raspberrypi&logoColor=%23A22846)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-white?logo=robloxstudio&logoColor=%2300A2FF)
 ![3ds Max](https://img.shields.io/badge/3ds%20Max-white?logo=3dsmax&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-white?logo=godotengine&logoColor=%23478CBF)
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-white?logo=robloxstudio&logoColor=%2300A2FF)
-![Mixamo](https://img.shields.io/badge/Mixamo-white?logo=mixamo&logoColor=black)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-white?logo=davinciresolve&logoColor=black)
-![Unreal](https://img.shields.io/badge/UDK-white?logo=unrealengine&logoColor=black)
+![UDK](https://img.shields.io/badge/UDK-white?logo=unrealengine&logoColor=black)
 
 </details>
 
