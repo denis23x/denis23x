@@ -1,3 +1,4 @@
+[x.com/denis23x_](https://x.com/denis23x_)\
 [t.me/denis23x](https://t.me/denis23x)\
 [linkedin.com/in/denis-iakimenko](https://www.linkedin.com/in/denis-iakimenko)
 
@@ -23,6 +24,7 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 
 **Some pet projects**
 
+[calculon](https://t.me/calculon_x) (ai news bot (ru))\
 [minilink](https://minilink23x.vercel.app) (url shortener)\
 [daylik](https://daylik.io/en) (team collaboration tools)\
 [deepwood](https://denis23x.itch.io/deepwood) (2d game platformer)\
@@ -157,9 +159,31 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 
 </details>
 
+<details>
+<summary><b>My Specializations</b></summary>
+
+[Google Project Management](https://coursera.org/share/8819a9af841955d0a3c6c49d868beb18)
+
+- [Foundations of Project Management](https://coursera.org/share/8787f969348e56b87552c70a2502496d)
+- [Project Initiation: Starting a Successful Project](https://coursera.org/share/d4d40909fd4b068b6d5da82d572a4e66)
+- [Project Planning: Putting It All Together](https://coursera.org/share/a4f8a232e120b994075910ca1340f18f)
+- [Project Execution: Running the Project](https://coursera.org/share/ee6b28905ce116ecb6d13c227fb4bb6d)
+- [Agile Project Management](https://coursera.org/share/00c4142eecf9d67dc11e33e7013a1eac)
+- [Capstone: Applying Project Management in the Real World](https://coursera.org/share/004cd258ecfb9685d26cc6ab420fb8fa)
+
+[Introduction to Generative AI Learning Path](https://coursera.org/share/b6463b58a870336861dd31f0ced692be)
+
+- [Introduction to Generative AI](https://coursera.org/share/a6cb6cb050e11d719f84b3965a323698)
+- [Introduction to Large Language Models](https://coursera.org/share/732832a288e500ee6966e5a3354f1a2c)
+- [Introduction to Responsible AI](https://coursera.org/share/9063f678fb1522e44ad32f1ed0a60c82)
+- [Responsible AI: Applying AI Principles with Google Cloud](https://coursera.org/share/c2e649ab97d3943431359d2b71c818e8)
+
+</details>
+
 ---
 
 **Connect**
 
+[x.com/denis23x_](https://x.com/denis23x_)\
 [t.me/denis23x](https://t.me/denis23x)\
 [linkedin.com/in/denis-iakimenko](https://www.linkedin.com/in/denis-iakimenko)
