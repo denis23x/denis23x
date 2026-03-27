@@ -183,7 +183,14 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 <details>
 <summary><b>Courses</b></summary>
 
+Anthropic Education
+
 [Building with the Claude API](https://verify.skilljar.com/c/vvzuzv2zx3we)\
+[Introduction to Model Context Protocol](https://verify.skilljar.com/c/oem4wukzmmmz)\
+[Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/ou62fyv5babk)
+
+Coursera
+
 [Google AI Essentials](https://coursera.org/share/3c20160b369cb5db8fcb7f70a575a439)\
 [React Basics](https://coursera.org/share/227a7aca3ed8dd0fabd5e83db319d84a)\
 [Advanced React](https://coursera.org/share/c7ff0616b4d9a06878fb43420dfe0ff2)
