@@ -186,11 +186,13 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 Anthropic Education
 
 [Building with the Claude API](https://verify.skilljar.com/c/vvzuzv2zx3we)\
+[Claude 101](https://verify.skilljar.com/c/5wmy2ycs7atv)\
 [Claude Code in Action](https://verify.skilljar.com/c/syjck5b3ggww)\
-[Introduction to Model Context Protocol](https://verify.skilljar.com/c/oem4wukzmmmz)\
-[Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/ou62fyv5babk)\
+[Introduction to Claude Cowork](https://verify.skilljar.com/c/ta36wresevm6)\
 [Introduction to agent skills](https://verify.skilljar.com/c/xttdqxy2esug)\
-[Introduction to subagents](https://verify.skilljar.com/c/gjgen6muj9vb)
+[Introduction to Model Context Protocol](https://verify.skilljar.com/c/oem4wukzmmmz)\
+[Introduction to subagents](https://verify.skilljar.com/c/gjgen6muj9vb)\
+[Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/ou62fyv5babk)\
 
 Coursera
 
