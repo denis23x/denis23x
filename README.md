@@ -24,6 +24,7 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 
 **Some pet projects**
 
+[rtp](https://review-to-post.vercel.app/) (turn google reviews into smm)\
 [calculon](https://t.me/calculon_x) (ai news bot (ru))\
 [minilink](https://minilink23x.vercel.app) (url shortener)\
 [daylik](https://daylik.io/en) (team collaboration tools)\
