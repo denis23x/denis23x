@@ -179,6 +179,15 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 - [Introduction to Responsible AI](https://coursera.org/share/9063f678fb1522e44ad32f1ed0a60c82)
 - [Responsible AI: Applying AI Principles with Google Cloud](https://coursera.org/share/c2e649ab97d3943431359d2b71c818e8)
 
+[AI Fluency](https://www.anthropic.com/learn)
+
+- [Teaching the AI Fluency Framework](https://verify.skilljar.com/c/3c5u4j2q5he5)
+- [Framework & Foundations](https://verify.skilljar.com/c/yzmdybx7bqqs)
+- [AI Fluency for educators](https://verify.skilljar.com/c/q93hhouefzkr)
+- [AI Fluency for students](https://verify.skilljar.com/c/rmc2e5yvo5ri)
+- [AI Fluency for nonprofits](https://verify.skilljar.com/c/okwdac8hnvrb)
+- [AI Capabilities & Limitations](https://verify.skilljar.com/c/k3eghhvq9v3d)
+
 </details>
 
 <details>
@@ -186,14 +195,14 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 
 Anthropic Education
 
-[Building with the Claude API](https://verify.skilljar.com/c/vvzuzv2zx3we)\
-[Claude 101](https://verify.skilljar.com/c/5wmy2ycs7atv)\
 [Claude Code in Action](https://verify.skilljar.com/c/syjck5b3ggww)\
+[Claude 101](https://verify.skilljar.com/c/5wmy2ycs7atv)\
+[Building with the Claude API](https://verify.skilljar.com/c/vvzuzv2zx3we)\
 [Introduction to Claude Cowork](https://verify.skilljar.com/c/ta36wresevm6)\
 [Introduction to agent skills](https://verify.skilljar.com/c/xttdqxy2esug)\
 [Introduction to Model Context Protocol](https://verify.skilljar.com/c/oem4wukzmmmz)\
 [Introduction to subagents](https://verify.skilljar.com/c/gjgen6muj9vb)\
-[Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/ou62fyv5babk)\
+[Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/ou62fyv5babk)
 
 Coursera
 
