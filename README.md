@@ -1,8 +1,6 @@
-[x.com/denis23x_](https://x.com/denis23x_)\
-[t.me/denis23x](https://t.me/denis23x)\
-[linkedin.com/in/denis-iakimenko](https://www.linkedin.com/in/denis-iakimenko)
+[linktr.ee/denis23x](https://linktr.ee/denis23x)
 
-**Software Developer** · Fullstack-focused · 7+ years · ex-Dev Lead
+**Software Developer** · Fullstack-focused · 8+ years · ex-Dev Lead
 
 **Primary stack** · TypeScript · Next.js · NestJS · React · Angular · Node.js · PostgreSQL
 
@@ -25,6 +23,7 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 **Some pet projects**
 
 [rtp](https://review-to-post.vercel.app/) (turn google reviews into smm)\
+[claude code cheatsheet](https://claude-code-cheatsheet.vercel.app/) (ru)\
 [calculon](https://t.me/calculon_x) (ai news bot (ru))\
 [minilink](https://minilink23x.vercel.app) (url shortener)\
 [daylik](https://daylik.io/en) (team collaboration tools)\
@@ -216,6 +215,4 @@ Coursera
 
 **Connect**
 
-[x.com/denis23x_](https://x.com/denis23x_)\
-[t.me/denis23x](https://t.me/denis23x)\
-[linkedin.com/in/denis-iakimenko](https://www.linkedin.com/in/denis-iakimenko)
+[linktr.ee/denis23x](https://linktr.ee/denis23x)
