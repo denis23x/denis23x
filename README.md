@@ -185,6 +185,7 @@ I lead teams and projects end-to-end, covering backend, frontend, and delivery. 
 - [AI Fluency for educators](https://verify.skilljar.com/c/q93hhouefzkr)
 - [AI Fluency for students](https://verify.skilljar.com/c/rmc2e5yvo5ri)
 - [AI Fluency for nonprofits](https://verify.skilljar.com/c/okwdac8hnvrb)
+- [Al Fluency for Small Businesses](https://verify.skilljar.com/c/v5tvcwmy4hz8)
 - [AI Capabilities & Limitations](https://verify.skilljar.com/c/k3eghhvq9v3d)
 
 </details>
@@ -196,6 +197,7 @@ Anthropic Education
 
 [Claude Code in Action](https://verify.skilljar.com/c/syjck5b3ggww)\
 [Claude 101](https://verify.skilljar.com/c/5wmy2ycs7atv)\
+[Claude code 101](https://verify.skilljar.com/c/nc77bs6zermo)\
 [Building with the Claude API](https://verify.skilljar.com/c/vvzuzv2zx3we)\
 [Introduction to Claude Cowork](https://verify.skilljar.com/c/ta36wresevm6)\
 [Introduction to agent skills](https://verify.skilljar.com/c/xttdqxy2esug)\
